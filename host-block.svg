@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="183" height="45" viewBox="0 0 183 45">
+  <g id="host-block" transform="translate(-186 -932)">
+    <g id="bg" transform="translate(186 932)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="183" height="45" rx="22" stroke="none"/>
+      <rect x="0.5" y="0.5" width="182" height="44" rx="21.5" fill="none"/>
+    </g>
+    <g id="icon-host" transform="translate(227 964)">
+      <path id="Path_395" data-name="Path 395" d="M0-18V0H46.489V-18Zm1.265,1.869h43.96V-1.869H1.265ZM24.974-14.76V-3.3H39.218V-14.76Zm-19.907.028V-3.268h14.2V-14.732Zm21.171,1.842H37.953v2.935H26.238Zm-19.906.042H18v2.894H6.332Zm15.834.6c-1.2,0-2.185,1.468-2.185,3.24s.985,3.24,2.185,3.24,2.176-1.468,2.176-3.24S23.356-12.254,22.166-12.254Zm17.712,1.246v5.082h4.965v-5.082Zm-36.819.554c-.725,0-1.311.872-1.311,1.939a2.437,2.437,0,0,0,.381,1.371,1.132,1.132,0,0,0,.93.582,1.13,1.13,0,0,0,.92-.582A2.44,2.44,0,0,0,4.37-8.515C4.37-9.582,3.775-10.454,3.059-10.454Zm19.107.069c.511,0,.92.609.92,1.371s-.409,1.357-.92,1.357-.921-.6-.921-1.357S21.645-10.385,22.166-10.385ZM41.143-9.139h2.436V-7.8H41.143ZM6.332-8.086H18v2.935H6.332Zm19.906,0H37.953v2.908H26.238Z" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <text id="title" transform="translate(284 962)" fill="#fff" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Host</tspan></text>
+  </g>
+</svg>
